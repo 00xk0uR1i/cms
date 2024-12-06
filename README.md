@@ -88,10 +88,10 @@ This script is for **educational purposes only**. Unauthorized use against websi
   A script crafted for ethical penetration testing and education.  
 
 ---
-
+```
 ### License
 MIT License - Use, modify, and distribute as you see fit.
 ```
 <a href="https://buymeacoffee.com/k0ur1i" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-```
+
