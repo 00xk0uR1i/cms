@@ -71,9 +71,9 @@
 ### Example Targets File
 Each target URL should be on a new line:
 ```
-https://example1.com
-https://example2.com
-https://example3.com
+https://victim1.com
+https://victim2.com
+https://victim3.com
 ```
 
 ## Outputs
