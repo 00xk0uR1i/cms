@@ -15,8 +15,6 @@
   Attempts to log in using a list of usernames and passwords.
 - **Mass Attack**  
   Targets multiple websites from a provided list.
-- **Color-Coded Alerts**  
-  Displays results with animated and color-coded text for better clarity.
 
 ## Requirements
 - **Bash Shell**  
